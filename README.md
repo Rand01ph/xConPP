@@ -12,6 +12,10 @@ If you would like to contribute, or have found an app this doesn't work with, pl
 2. Write the class to hook, and the method in full, separated by a colon :
 3. Save As -> mymodule.xcm
 
+Example:
+
+<code>FlurryUtil:(bool)deviceIsJailbroken</code>
+
 That's it :P modules are meant to be simple.
 
 ~At0m0s, created for iOSCheaters but can be used elsewhere.
