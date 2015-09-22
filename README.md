@@ -7,6 +7,7 @@ If you would like to contribute, or have found an app this doesn't work with, pl
 
 # Modules
 * How it will work:
+
 1. Create a txt file
 2. Write the class to hook, and the method in full, separated by a colon :
 3. Save As -> mymodule.xcm
