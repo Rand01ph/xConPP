@@ -1,0 +1,9 @@
+Package: com.at0m0s.zcon
+Name: xConPP
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A nullifier for jailbreak and cracked app checks with extensible modules.
+Maintainer: At0m0s
+Author: At0m0s
+Section: Hacks
